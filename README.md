@@ -1,4 +1,4 @@
-# vba-walidacja-podatnikow
+# walidacja-podatnikow
 
 Checking taxpayers based on the NIP number using the WL Register API
 
